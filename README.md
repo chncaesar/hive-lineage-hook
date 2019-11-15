@@ -1,1 +1,1 @@
-## 洋驼(海拍客)自研Hive插件类代码库
+Hive table lineage hook
